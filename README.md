@@ -10,8 +10,8 @@ I am a Full-Stack Developer with a strong foundation in web technologies and a p
 👯 I’m looking to collaborate on...<br>
 📫 How to reach me through:<br>
 - Email: zane.komedera@gmail.com
-- LinkedIn: https://www.linkedin.com/in/za-ne 
-- Portfolio:  https://za-ne.github.io
+  
+👨🏼‍💻 Portfolio:  https://za-ne.github.io
 
 <h2>Languages and Tools:</h2>
 
@@ -22,6 +22,8 @@ I am a Full-Stack Developer with a strong foundation in web technologies and a p
 <h2>Socials:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/za-ne)
+
+[![Codewars](https://www.codewars.com/users/your_username/badges/large)](https://www.codewars.com/users/za-ne)
 
 
 
