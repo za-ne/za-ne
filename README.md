@@ -23,6 +23,8 @@ I am a Full-Stack Developer with a strong foundation in web technologies and a p
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/za-ne)
 
+[![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/za-ne)
+
 [![Codewars](https://www.codewars.com/users/za-ne/badges/large)](https://www.codewars.com/users/za-ne)
 
 
