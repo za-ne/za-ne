@@ -27,20 +27,20 @@ I am a Full-Stack Developer with a strong foundation in web technologies and a p
 
 
 
-<h2>ℹ Other information:</h2>
+<h2> ℹ Other information:</h2>
 
 <details>
- <summary>-- Professional Experience --</summary>
+ <summary> 🌐 Professional Experience </summary>
  <h2>XXX</h2>
 
 With my hands-on experience, strong work ethic, and passion for web development, I am excited to embark on a career as a full stack developer. I am confident in my ability to contribute meaningfully to innovative projects and collaborate with diverse teams to create impactful solutions.
 
 
-<h2>🚌 Professional Bus Driver</h2>
+<h2> 🚌 Professional Bus Driver</h2>
 
 Drawing on my background as a Professional Bus Driver, I bring a unique set of customer-centered focused skills to the world of software engineering.
 
-
+</details>
 
 
 
